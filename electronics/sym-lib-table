@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UM6K34NTCN")(type "KiCad")(uri "${KIPRJMOD}/UM6K34NTCN.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7312-1828W6-7")(type "KiCad")(uri "${KIPRJMOD}/AP7312-1828W6-7.kicad_sym")(options "")(descr ""))
+)
