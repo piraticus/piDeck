@@ -491,7 +491,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1,
+        "track_width": 0.2,
         "wire_width": 6
       },
       {
@@ -499,7 +499,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1,
+        "track_width": 0.2,
         "wire_width": 6
       },
       {
@@ -507,6 +507,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
         "wire_width": 6
       },
       {
@@ -514,7 +515,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1,
+        "track_width": 0.2,
         "wire_width": 6
       }
     ],
@@ -705,6 +706,10 @@
     [
       "731f0414-be38-4c27-b718-5d8edfd5df05",
       "Root"
+    ],
+    [
+      "397ea414-d661-4228-b0e6-d1f891216d28",
+      "Track Pad"
     ]
   ],
   "text_variables": {}

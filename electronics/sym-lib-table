@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "UM6K34NTCN")(type "KiCad")(uri "${KIPRJMOD}/UM6K34NTCN.kicad_sym")(options "")(descr ""))
   (lib (name "AP7312-1828W6-7")(type "KiCad")(uri "${KIPRJMOD}/AP7312-1828W6-7.kicad_sym")(options "")(descr ""))
+  (lib (name "RE1C002UNTCL")(type "KiCad")(uri "${KIPRJMOD}/RE1C002UNTCL.kicad_sym")(options "")(descr "MOSFET N-CH 20V 200MA EMT3F"))
 )
