@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.4,
+          "width": 0.635
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -187,7 +187,8 @@
       ],
       "track_widths": [
         0.0,
-        0.1
+        0.1,
+        0.2
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -487,7 +488,7 @@
         "wire_width": 6
       },
       {
-        "name": "1v8",
+        "name": "+1v8",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -495,7 +496,7 @@
         "wire_width": 6
       },
       {
-        "name": "2v8",
+        "name": "+2v8",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -530,11 +531,11 @@
         "pattern": "GND"
       },
       {
-        "netclass": "1v8",
+        "netclass": "+1v8",
         "pattern": "+1V8"
       },
       {
-        "netclass": "2v8",
+        "netclass": "+2v8",
         "pattern": "+2V8"
       }
     ]

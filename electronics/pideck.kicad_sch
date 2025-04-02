@@ -5071,8 +5071,32 @@
 		(uuid "cc7e6f2e-0a00-458d-b490-24d7d27247ff")
 	)
 	(no_connect
+		(at 83.82 138.43)
+		(uuid "04faaeba-34cd-4e43-8525-b6897c000254")
+	)
+	(no_connect
+		(at 53.34 133.35)
+		(uuid "09660fe8-f75f-4abb-a607-2ab9fe0ccdac")
+	)
+	(no_connect
+		(at 53.34 179.07)
+		(uuid "18e97c15-4b2e-4719-bf41-c97eeebcc5bb")
+	)
+	(no_connect
 		(at 204.47 49.53)
 		(uuid "1fccab64-04b1-4cfc-9a20-d086610cae41")
+	)
+	(no_connect
+		(at 83.82 156.21)
+		(uuid "2331be73-5fe8-489b-9ad9-d6bad3984137")
+	)
+	(no_connect
+		(at 83.82 133.35)
+		(uuid "3195da23-4fc7-4a58-bf94-becc863775bd")
+	)
+	(no_connect
+		(at 83.82 143.51)
+		(uuid "350c2d9c-766a-47c1-9580-65131adc607c")
 	)
 	(no_connect
 		(at 179.07 69.85)
@@ -5087,8 +5111,24 @@
 		(uuid "7cfffe5d-d8d6-49a5-b660-87a1830d72c5")
 	)
 	(no_connect
+		(at 83.82 130.81)
+		(uuid "8a4ee175-7c0d-42a3-929d-ef8996328eae")
+	)
+	(no_connect
+		(at 53.34 130.81)
+		(uuid "a3bcf9db-ec36-4555-ae11-03f592435b27")
+	)
+	(no_connect
+		(at 83.82 146.05)
+		(uuid "b25b78ec-9444-430c-8927-fa061df867ec")
+	)
+	(no_connect
 		(at 179.07 62.23)
 		(uuid "c9ca4e60-2eac-4003-995f-0de2353539a1")
+	)
+	(no_connect
+		(at 83.82 151.13)
+		(uuid "f5d4bb32-1bf6-4a03-aefb-404c571e6f69")
 	)
 	(wire
 		(pts
@@ -5252,6 +5292,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 146.05) (xy 53.34 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "291271dc-bd9e-4d67-97df-aafeb906bd55")
+	)
+	(wire
+		(pts
 			(xy 175.26 46.99) (xy 179.07 46.99)
 		)
 		(stroke
@@ -5319,16 +5369,6 @@
 			(type default)
 		)
 		(uuid "44f1f825-a802-47dd-9812-0bc1e16a58f1")
-	)
-	(wire
-		(pts
-			(xy 50.8 161.29) (xy 53.34 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "470f5f43-c4ae-4fc6-9b73-56d2b710f9e9")
 	)
 	(wire
 		(pts
@@ -5422,16 +5462,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 173.99) (xy 86.36 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c474012-b974-48fe-9b0b-ea0fcfa803da")
-	)
-	(wire
-		(pts
 			(xy 50.8 173.99) (xy 53.34 173.99)
 		)
 		(stroke
@@ -5472,26 +5502,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 148.59) (xy 86.36 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "769edaea-482f-4d99-9f97-5271aaf036e7")
-	)
-	(wire
-		(pts
-			(xy 83.82 135.89) (xy 86.36 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81c272a6-bbcb-4645-8afa-5fd01288eb1f")
-	)
-	(wire
-		(pts
 			(xy 50.8 153.67) (xy 53.34 153.67)
 		)
 		(stroke
@@ -5512,6 +5522,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 143.51) (xy 53.34 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8aaaa25b-4749-4a11-887b-ee884dc14395")
+	)
+	(wire
+		(pts
 			(xy 204.47 62.23) (xy 208.28 62.23)
 		)
 		(stroke
@@ -5529,16 +5549,6 @@
 			(type default)
 		)
 		(uuid "8bbb03ca-a5c5-4aa6-8ccd-211a582eae60")
-	)
-	(wire
-		(pts
-			(xy 50.8 148.59) (xy 53.34 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8beda363-fb52-4484-9929-cb00f2ab1a88")
 	)
 	(wire
 		(pts
@@ -5569,6 +5579,16 @@
 			(type default)
 		)
 		(uuid "99cdb4d3-2242-4cc6-8bc7-ec3141b5bd6c")
+	)
+	(wire
+		(pts
+			(xy 50.8 140.97) (xy 53.34 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c2f48e9-1f8b-4523-8a06-3c6e57c449c4")
 	)
 	(wire
 		(pts
@@ -5782,6 +5802,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 138.43) (xy 53.34 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5d02b29-e164-42f7-bf72-ff4e23e1a5dc")
+	)
+	(wire
+		(pts
 			(xy 53.34 135.89) (xy 50.8 135.89)
 		)
 		(stroke
@@ -5799,16 +5829,6 @@
 			(type default)
 		)
 		(uuid "defb699b-0f3f-4954-a400-7d429dc95744")
-	)
-	(wire
-		(pts
-			(xy 83.82 161.29) (xy 86.36 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df2df26f-9538-4eb9-a5f6-f94b8b57e0c1")
 	)
 	(wire
 		(pts
@@ -6156,6 +6176,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TP_MOTION_3V3"
+		(shape passive)
+		(at 50.8 138.43 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3f4098e9-dd7b-4b4a-a440-afe389cb9beb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.2304 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6842,6 +6884,28 @@
 			)
 		)
 	)
+	(global_label "TP_BLK_LED_K_3V3"
+		(shape passive)
+		(at 50.8 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d3e3720f-7dbb-4fe2-bfc5-0b1b856997fe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.0253 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL3"
 		(shape passive)
 		(at 208.28 41.91 0)
@@ -6882,6 +6946,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TP_RESET_3V3"
+		(shape passive)
+		(at 50.8 143.51 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e488fa88-dfa0-42f1-a7c9-6c724bf7e90c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.5006 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TP_SHUTDOWN_3V3"
+		(shape passive)
+		(at 50.8 140.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e53ae8ea-069e-4bf9-9143-a32ed22d62b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.0252 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7154,73 +7262,6 @@
 			(project "pideck"
 				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "119e45e1-c469-482f-a2b0-020fa59355a8")
-		(property "Reference" "#PWR026"
-			(at 92.71 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 90.17 148.5899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a8046981-7bf4-4614-a5e6-01cc7d934f7e")
-		)
-		(instances
-			(project "pideck"
-				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
-					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -8370,140 +8411,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 86.36 135.89 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "69d83f37-2bfd-46fc-ad2b-a3c7e07e1ba4")
-		(property "Reference" "#PWR05"
-			(at 92.71 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 90.17 135.8899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8eadb2ec-e2c9-4ed5-bd74-b8de25afaf0e")
-		)
-		(instances
-			(project "pideck"
-				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 50.8 161.29 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6c26f55b-2013-4a9d-bee8-1c679baa049a")
-		(property "Reference" "#PWR022"
-			(at 44.45 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 46.99 161.2899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "229e0f14-62a4-4d97-be64-32452dcb7592")
-		)
-		(instances
-			(project "pideck"
-				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "RE1C002UNTCL:RE1C002UNTCL")
 		(at 140.97 111.76 0)
 		(unit 1)
@@ -9044,207 +8951,6 @@
 			(project "pideck"
 				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
 					(reference "R19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 161.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a0826c50-cd58-487d-a3a1-231db3e7b508")
-		(property "Reference" "#PWR025"
-			(at 92.71 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 90.17 161.2899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "35adfb81-7303-4882-b879-2057ddf55073")
-		)
-		(instances
-			(project "pideck"
-				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 173.99 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a75f8fd7-94e4-4dcf-9e41-a57f16bde69d")
-		(property "Reference" "#PWR024"
-			(at 92.71 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 90.17 173.9899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3b3fb8ff-c7d4-4292-8327-f19101bc2dea")
-		)
-		(instances
-			(project "pideck"
-				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 50.8 148.59 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a852e280-bba4-4e91-acc7-a5f2dc8ba5d1")
-		(property "Reference" "#PWR021"
-			(at 44.45 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 46.99 148.5899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1fb26998-6752-4bb1-aa70-907d39dff618")
-		)
-		(instances
-			(project "pideck"
-				(path "/731f0414-be38-4c27-b718-5d8edfd5df05"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
