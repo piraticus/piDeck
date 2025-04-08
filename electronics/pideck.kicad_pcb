@@ -112,9 +112,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "production/")
 		)
 	)
 	(net 0 "")
@@ -916,9 +916,10 @@
 		(path "/50898b0a-f328-4fe9-bd9e-3347de0fd319")
 		(sheetname "/")
 		(sheetfile "pideck.kicad_sch")
-		(solder_mask_margin 0.05)
-		(clearance 0.08)
-		(attr smd allow_soldermask_bridges)
+		(solder_mask_margin 0)
+		(solder_paste_margin 0.01)
+		(clearance 0.05)
+		(attr smd)
 		(fp_line
 			(start 3.94 -1.15)
 			(end 3.635 -1.15)
@@ -2359,6 +2360,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/dce50137-6c6d-4e78-857d-8ba259155f55")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start -0.88 0.35)
@@ -2554,6 +2556,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/aa678d74-cba6-4f6b-9c1e-906305c6ae51")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -2749,6 +2752,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/a6b31c9d-0ca7-49b5-a0ea-fb4e0a1fc39c")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -4758,6 +4762,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/e9abcb9c-b46f-4568-b2f7-fa6c6aa6ef2c")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -5837,6 +5842,7 @@
 		(path "/0666b356-ba84-4ef5-afe1-9f70133ff243")
 		(sheetname "/")
 		(sheetfile "pideck.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -6474,6 +6480,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/7f2ad34f-ad51-498e-979d-5000f5a66570")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start -0.88 0.35)
@@ -6669,6 +6676,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/4ef35705-ff49-40c6-94ad-44fc9fd4df75")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -6864,6 +6872,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/81a9ee59-6ed9-4299-b5b5-d78900659d41")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -7388,6 +7397,7 @@
 		(path "/397ea414-d661-4228-b0e6-d1f891216d28/1c391db3-dd22-43fc-bcb8-551756a1430a")
 		(sheetname "/Track Pad/")
 		(sheetfile "untitled.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -8025,6 +8035,7 @@
 		(path "/980848b5-d812-4208-adb5-00c1dc593713")
 		(sheetname "/")
 		(sheetfile "pideck.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.88 -0.35)
@@ -8220,6 +8231,7 @@
 		(path "/0fcf63a6-e376-48ea-a907-0234dc90fcbd")
 		(sheetname "/")
 		(sheetfile "pideck.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -8807,6 +8819,7 @@
 		(path "/8a942a4f-203a-4b3d-b5f9-6ef1a9e171fb")
 		(sheetname "/")
 		(sheetfile "pideck.kicad_sch")
+		(clearance 0.18)
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
