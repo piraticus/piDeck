@@ -38,13 +38,13 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.4,
-          "width": 0.635
+          "height": 0.42,
+          "width": 0.23
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.8,
+        "silk_text_size_v": 0.8,
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
@@ -504,7 +504,7 @@
         "wire_width": 6
       },
       {
-        "name": "3v3",
+        "name": "+3v3",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -537,6 +537,10 @@
       {
         "netclass": "+2v8",
         "pattern": "+2V8"
+      },
+      {
+        "netclass": "+1v8",
+        "pattern": "TP_SCL_1V8"
       }
     ]
   },
@@ -556,7 +560,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "pideck.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
