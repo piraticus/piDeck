@@ -6,4 +6,8 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/symbols/AP7312_1828W6_7/footprints.pretty")(options "")(descr ""))
   (lib (name "CM5IO")(type "KiCad")(uri "${KIPRJMOD}/symbols/rpi-cm5io-Kicad/CM5IO.pretty")(options "")(descr ""))
   (lib (name "CM5IO.3dshapes")(type "KiCad")(uri "${KIPRJMOD}/symbols/rpi-cm5io-Kicad/CM5IO.3dshapes")(options "")(descr ""))
+  (lib (name "ARJM11D7-502-AB-EW2.3dshapes")(type "KiCad")(uri "${KIPRJMOD}/symbols/ARJM11D7_502_AB_EW2/ARJM11D7-502-AB-EW2.3dshapes")(options "")(descr ""))
+  (lib (name "ARJM11D7-502-AB-EW2")(type "KiCad")(uri "${KIPRJMOD}/symbols/ARJM11D7_502_AB_EW2/ARJM11D7-502-AB-EW2.pretty")(options "")(descr ""))
+  (lib (name "BAT-HLD-001-THM.3dshapes")(type "KiCad")(uri "${KIPRJMOD}/symbols/BAT_HLD_001_THM/BAT-HLD-001-THM.3dshapes")(options "")(descr ""))
+  (lib (name "BAT-HLD-001-THM")(type "KiCad")(uri "${KIPRJMOD}/symbols/BAT_HLD_001_THM/BAT-HLD-001-THM.pretty")(options "")(descr ""))
 )
