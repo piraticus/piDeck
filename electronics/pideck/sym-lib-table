@@ -8,4 +8,5 @@
   (lib (name "CM5IO")(type "KiCad")(uri "${KIPRJMOD}/symbols/rpi-cm5io-Kicad/CM5IO.kicad_sym")(options "")(descr ""))
   (lib (name "ARJM11D7-502-AB-EW2")(type "KiCad")(uri "${KIPRJMOD}/symbols/ARJM11D7_502_AB_EW2/ARJM11D7-502-AB-EW2.kicad_sym")(options "")(descr ""))
   (lib (name "BAT-HLD-001-THM")(type "KiCad")(uri "${KIPRJMOD}/symbols/BAT_HLD_001_THM/BAT-HLD-001-THM.kicad_sym")(options "")(descr ""))
+  (lib (name "AP22653W6-7")(type "KiCad")(uri "${KIPRJMOD}/symbols/AP22653W6_7/AP22653W6-7.kicad_sym")(options "")(descr ""))
 )
