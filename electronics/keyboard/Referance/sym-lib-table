@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "pikeyboard-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/pikeyboard-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "pikeyboard-mini-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/pikeyboard-mini-eagle-import.kicad_sym")(options "")(descr ""))
+)
